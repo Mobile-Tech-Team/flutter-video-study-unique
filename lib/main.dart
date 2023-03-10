@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('EasyList'),
         ),
-        body: const ProductManager(),
+        body: const ProductManager("Meeting Success!"),
       ),
     );
   }

@@ -1,6 +1,6 @@
 # unique_study
 
-A new Flutter project.
+This is uniQue's new Flutter Tutorial project.
 
 ## Getting Started
 
